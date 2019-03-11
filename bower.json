@@ -1,0 +1,25 @@
+{
+  "name": "angular1-apollo",
+  "description": "Angular 1.0 client for Apollo",
+  "main": "build/index.js",
+  "authors": [
+    "Kamil Kisiela <kamil.kisiela@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs",
+    "apollo-client",
+    "angular1-apollo",
+    "graphql",
+    "graphql-client",
+    "typescript"
+  ],
+  "homepage": "https://github.com/ajsb85/angular1-apollo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
